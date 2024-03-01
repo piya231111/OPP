@@ -12,5 +12,5 @@
 [slide/canva/etc..] 
 ## link [public/ubu]
 ## video: 
-link [public/ubu]
+link [https://drive.google.com/drive/folders/1BEQ0GMthwJ2L6cFYF4Z3IOjye1_joZcs?usp=drive_link]
 ## xoxoxo
