@@ -5,7 +5,7 @@
   * name: Piyachat Wansai
 ## technology: [streamlit]
 ## application description:
-โปรเจคเกี่ยวข้อมูลสัตว์ชนิดต่างๆ ประเภท ถิ่นที่อยู่ ประวัติ
+Tob 5 สัตว์เลี้ยที่เป็นนิยมในไทยมีอะไรบ้าง
 ## https://opp-tau.vercel.app/
 
 ## presentation: 
