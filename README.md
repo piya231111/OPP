@@ -10,8 +10,8 @@ Tob 5 สัตว์เลี้ยที่เป็นนิยมในไ�
 link
 [https://opp-tau.vercel.app/]
 
-## presentation: [slide/canva/etc..] 
-link [public/ubu]
+## presentation: [canva] 
+link [กำลังทำจ้าา]
 ## video: 
 link [https://drive.google.com/drive/folders/1BEQ0GMthwJ2L6cFYF4Z3IOjye1_joZcs?usp=drive_link]
 ## xoxoxo
