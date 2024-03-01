@@ -6,7 +6,9 @@
 ## technology: [streamlit]
 ## application description:
 Tob 5 สัตว์เลี้ยที่เป็นนิยมในไทยมีอะไรบ้าง
-## https://opp-tau.vercel.app/
+## เว็ปไซต์
+link
+[https://opp-tau.vercel.app/]
 
 ## presentation: [slide/canva/etc..] 
 link [public/ubu]
